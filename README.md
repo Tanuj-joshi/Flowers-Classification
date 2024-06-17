@@ -40,8 +40,8 @@ To run this project, you will need the following dependencies:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Tanuj-joshi/Flowers-Classification-using-Pytorch.git
-   cd Flowers-Classification-using-Pytorch
+   git clone https://github.com/Tanuj-joshi/Flowers-Classification.git
+   cd Flowers-Classification
    ```
 
 2. Create a virtual environment and activate it::
