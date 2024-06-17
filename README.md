@@ -1,7 +1,7 @@
 # Flowers-Classification-using-Pytorch
 ### An Image Classifier to recognize different species of Flowers
 
-![Description of image](intro-image.png)
+![Description of image](output_image.png)
 
 This repository contains the code and resources to train a Convolutional Neural Network (CNN) to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. We'll be using the dataset of 102 flower categories.
 
